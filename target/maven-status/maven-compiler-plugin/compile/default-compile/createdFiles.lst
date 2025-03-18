@@ -1,0 +1,15 @@
+apiUtility\RestResourse.class
+com\spotify2\pojo\ErrorRoot.class
+apiUtility\ExcelUtility.class
+apiUtility\FiileUtility.class
+apiUtility\TokenManager.class
+com\spotify2\pojo\ExternalUrls.class
+apiUtility\Route.class
+applicationAPI\PlaylistApi.class
+apiUtility\SpecBuilder.class
+com\spotify2\pojo\Followers.class
+com\spotify2\pojo\Playlist.class
+com\spotify2\pojo\Owner.class
+com\spotify2\pojo\ExternalUrls__1.class
+com\spotify2\pojo\Tracks.class
+com\spotify2\pojo\InnerError.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.spotify2.test.PlaylistTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.04 s -- in com.spotify2.test.PlaylistTest
